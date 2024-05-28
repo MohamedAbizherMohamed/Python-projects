@@ -1,5 +1,4 @@
 import sys
-import math
 
 def euclideanalgorithm (p, q):
 
